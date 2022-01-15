@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <ID>1</ID>
+  <title>Не работает кнопка отправки заказа</title>
+  <steps>1.Открыть сайт *</steps>
+  <steps>2.Нажать по ссылке *</steps>
+  <steps>3.Пролистать до поля *</steps>
+  <steps>4.Ввести значение в поле *</steps>
+  <steps>5.Попытаться нажать кнопку отправки заказа</steps>
+  <Expected result>кнопка нажимается, можно сделать заказ</Expected result>
+  <Actual resul>кнопка неактивна</Actual resul>
