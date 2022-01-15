@@ -9,3 +9,4 @@
   <steps>5.Попытаться нажать кнопку отправки заказа</steps>
   <Expected result>кнопка нажимается, можно сделать заказ</Expected result>
   <Actual resul>кнопка неактивна</Actual resul>
+</root>
