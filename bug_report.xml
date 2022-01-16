@@ -8,5 +8,5 @@
   <steps>4.Ввести значение в поле *</steps>
   <steps>5.Попытаться нажать кнопку отправки заказа</steps>
   <Expected result>кнопка нажимается, можно сделать заказ</Expected result>
-  <Actual resul>кнопка неактивна</Actual resul>
+  <Actual_resul>кнопка неактивна</Actual_resul>
 </root>
